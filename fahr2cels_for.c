@@ -8,6 +8,7 @@
 int main()
 {
     float fahr, celsius;
+    
     for (fahr = INFERIOR; fahr <= SUPERIOR; fahr = fahr + PASSO)
 
     {
